@@ -3,7 +3,7 @@
   "name": "Tog",
   "version": "1.0",
   "description": "Toggle between light and dark modes",
-  "permissions": ["activeTab", "scripting", "storage", "debugger"],
+  "permissions": ["activeTab", "storage", "debugger"],
   "background": {
     "service_worker": "tog.js"
   },

@@ -1,3 +1,5 @@
 .DS_Store
-key.pem
-
+*.pem
+*.crx
+*.zip
+chromewebstoreshit
