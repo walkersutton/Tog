@@ -6,3 +6,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c4c5c375-45fb-42c4-b4d7-c782255b70b6" alt="Wikipedia demo" width="400"/>
 </p>
+
+## Notes
+* extensions installed on Arc Browser can be found at `/Users/<user>/Library/Application Support/Arc/User Data/Default/Extensions`
