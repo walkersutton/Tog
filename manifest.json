@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Tog",
+  "version": "1.0",
+  "description": "Toggle between light and dark color schemes",
+  "permissions": ["activeTab", "scripting", "storage", "debugger"],
+  "background": {
+    "service_worker": "tog.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "dark16.png",
+      "32": "dark32.png"
+    }
+  },
+  "icons": {
+    "16": "light32.png",
+    "32": "light32.png"
+  }
+}
